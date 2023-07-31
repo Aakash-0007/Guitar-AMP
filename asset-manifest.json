@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Guitar-AMP/static/css/main.8913ab11.css",
+    "main.js": "/Guitar-AMP/static/js/main.6e2065aa.js",
+    "index.html": "/Guitar-AMP/index.html",
+    "main.8913ab11.css.map": "/Guitar-AMP/static/css/main.8913ab11.css.map",
+    "main.6e2065aa.js.map": "/Guitar-AMP/static/js/main.6e2065aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8913ab11.css",
+    "static/js/main.6e2065aa.js"
+  ]
+}
